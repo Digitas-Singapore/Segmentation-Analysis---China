@@ -1,0 +1,51 @@
+,label_Automotive,label_Books and Literature,label_Books and Literature>Poetry,label_Business and Finance,label_Business and Finance>Industries>Agriculture,label_Business and Finance>Industries>Apparel Industry,label_Business and Finance>Industries>Hospitality Industry,label_Business and Finance>Industries>Logistics and Transportation Industry,label_Business and Finance>Industries>Retail Industry,label_Education,label_Education>College Education,label_Events and Attractions,label_Events and Attractions>Amusement and Theme Parks,label_Events and Attractions>Bars & Restaurants,label_Events and Attractions>Museums & Galleries,label_Events and Attractions>National & Civic Holidays,label_Events and Attractions>Personal Celebrations and Life Events>Wedding,label_Events and Attractions>Zoos & Aquariums,label_Family and Relationships,label_Family and Relationships>Parenting>Parenting Children Aged 4-11,label_Fine Art,label_Fine Art>Dance,label_Fine Art>Fine Art Photography,label_Food & Drink,label_Food & Drink>Alcoholic Beverages,label_Food & Drink>Barbecues and Grilling,label_Food & Drink>Desserts and Baking,label_Food & Drink>Dining Out,label_Food & Drink>Non-Alcoholic Beverages,label_Food & Drink>World Cuisines,label_Hobbies & Interests>Arts and Crafts>Photography,label_Home & Garden,label_Medical Health>Diseases and Conditions,label_Medical Health>Pharmaceutical Drugs,label_Medical Health>Vaccines,label_News and Politics,label_News and Politics>Weather,label_Science>Environment,label_Shopping,label_Sports,label_Style & Fashion,label_Travel,label_Travel>Travel Locations>Asia Travel,label_Travel>Travel Locations>Europe Travel,label_Travel>Travel Preparation and Advice,label_Travel>Travel Type,label_Travel>Travel Type>Family Travel,label_Travel>Travel Type>Hotels and Motels,label_Travel>Travel Type>Rail Travel,label_Travel>Travel Type>Road Trips
+label_Automotive,66,0,0,6,1,0,2,1,5,0,0,1,2,1,2,3,1,0,0,7,3,0,0,3,0,1,4,1,0,1,0,0,3,0,0,1,20,0,5,0,5,20,12,1,2,1,2,8,2,2
+label_Books and Literature,0,48,0,0,0,0,1,3,3,4,1,1,0,1,2,1,0,0,0,8,7,1,0,5,0,0,8,1,1,3,1,0,7,0,0,0,9,1,1,0,0,13,3,0,9,1,0,3,1,1
+label_Books and Literature>Poetry,0,0,81,2,0,0,0,0,0,0,0,2,0,1,1,2,0,0,0,0,45,0,0,1,5,1,1,1,0,5,0,1,0,0,0,1,5,1,0,1,2,24,9,1,1,0,0,1,0,1
+label_Business and Finance,6,0,2,66,0,0,0,0,0,3,0,2,0,1,0,5,1,1,2,5,3,0,1,4,0,1,1,1,0,1,1,1,6,5,5,0,18,4,4,0,3,10,21,0,0,4,4,8,0,0
+label_Business and Finance>Industries>Agriculture,1,0,0,0,97,0,0,2,13,1,0,3,0,0,1,0,0,0,5,4,0,0,8,5,2,0,2,0,4,1,1,1,0,2,0,1,5,19,11,1,1,32,5,2,4,1,0,0,0,0
+label_Business and Finance>Industries>Apparel Industry,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15,2,0,0,1,3,4,0,0,0,0,1,1,0
+label_Business and Finance>Industries>Hospitality Industry,2,1,0,0,0,0,124,3,9,0,1,8,0,5,5,4,0,0,1,7,5,0,0,11,0,2,1,6,2,13,0,4,1,0,0,1,5,1,7,2,0,0,15,4,5,0,1,123,0,1
+label_Business and Finance>Industries>Logistics and Transportation Industry,1,3,0,0,2,0,3,53,7,2,0,9,0,4,7,0,0,0,2,4,2,0,0,0,0,1,1,3,1,3,0,2,4,0,1,2,8,2,8,1,1,13,13,1,9,3,2,10,0,0
+label_Business and Finance>Industries>Retail Industry,5,3,0,0,13,0,9,7,224,8,2,19,1,14,5,1,0,0,1,7,7,0,2,26,5,5,8,15,4,10,0,3,7,1,1,2,14,13,165,3,6,47,22,3,6,2,1,12,0,1
+label_Education,0,4,0,3,1,0,0,2,8,94,0,5,0,8,14,5,0,1,4,28,7,0,0,4,1,1,2,7,0,5,0,2,10,4,3,1,7,4,6,4,4,17,5,1,4,1,2,3,0,0
+label_Education>College Education,0,1,0,0,0,0,1,0,2,0,48,0,0,0,12,0,0,1,1,2,12,0,0,1,0,0,2,0,0,10,0,0,18,0,0,0,4,0,2,17,3,28,1,1,3,0,0,1,0,0
+label_Events and Attractions,1,1,2,2,3,0,8,9,19,5,0,104,0,0,0,0,0,0,0,2,1,0,0,7,0,0,2,0,0,21,0,1,13,4,0,1,17,2,16,1,2,31,20,2,10,0,2,16,1,0
+label_Events and Attractions>Amusement and Theme Parks,2,0,0,0,0,0,0,0,1,0,0,0,22,1,1,1,0,2,1,2,1,0,0,1,0,0,1,1,0,2,0,1,0,0,0,1,1,1,1,0,0,0,4,0,0,21,1,1,0,0
+label_Events and Attractions>Bars & Restaurants,1,1,1,1,0,0,5,4,14,8,0,0,1,114,2,1,0,1,0,0,2,0,0,0,2,2,4,111,9,7,1,5,2,1,0,1,4,6,11,2,0,21,10,2,4,1,1,8,0,0
+label_Events and Attractions>Museums & Galleries,2,2,1,0,1,0,5,7,5,14,12,0,1,2,171,3,0,0,0,1,81,0,0,2,1,0,3,2,0,12,0,2,1,1,0,6,5,8,6,0,2,58,26,2,2,1,1,9,0,0
+label_Events and Attractions>National & Civic Holidays,3,1,2,5,0,0,4,0,1,5,0,0,1,1,3,111,1,0,0,7,3,0,0,6,0,0,0,1,0,3,1,1,2,0,0,0,7,3,0,1,2,33,8,1,0,3,3,6,0,0
+label_Events and Attractions>Personal Celebrations and Life Events>Wedding,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,34,0,1,0,0,0,1,1,0,2,1,0,0,0,0,1,0,0,0,0,2,0,0,0,1,7,2,0,1,0,0,1,0,0
+label_Events and Attractions>Zoos & Aquariums,0,0,0,1,0,0,0,0,0,1,1,0,2,1,0,0,0,111,1,1,1,0,0,4,0,0,0,1,0,0,0,1,1,1,0,1,6,4,0,0,2,24,5,0,0,2,1,0,0,0
+label_Family and Relationships,0,0,0,2,5,0,1,2,1,4,1,0,1,0,0,0,1,1,69,0,0,0,4,5,0,0,0,1,0,0,0,4,1,0,0,0,0,3,0,2,0,5,0,0,2,2,4,1,0,0
+label_Family and Relationships>Parenting>Parenting Children Aged 4-11,7,8,0,5,4,0,7,4,7,28,2,2,2,0,1,7,0,1,0,348,10,0,0,9,1,2,2,0,0,0,0,12,3,5,1,0,7,11,5,14,6,39,5,3,3,9,8,9,0,0
+label_Fine Art,3,7,45,3,0,0,5,2,7,7,12,1,1,2,81,3,0,1,0,10,249,0,0,3,2,0,6,2,1,21,0,2,3,2,1,14,16,5,7,3,2,75,21,4,2,1,1,7,0,1
+label_Fine Art>Dance,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,2,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,1,1,0,0,0,2,0,0,0,0
+label_Fine Art>Fine Art Photography,0,0,0,1,8,0,0,0,2,0,0,0,0,0,0,0,1,0,4,0,0,0,47,1,0,9,7,2,1,0,13,2,2,0,0,0,8,0,0,0,4,9,10,0,0,1,1,1,0,0
+label_Food & Drink,3,5,1,4,5,0,11,0,26,4,1,7,1,0,2,6,1,4,5,9,3,0,1,126,0,0,0,0,0,0,0,4,7,5,1,2,27,3,16,0,6,31,14,1,1,2,2,20,0,3
+label_Food & Drink>Alcoholic Beverages,0,0,5,0,2,0,0,0,5,1,0,0,0,2,1,0,0,0,0,1,2,2,0,0,22,0,2,2,2,1,1,2,1,0,0,0,2,0,6,0,0,4,1,0,0,0,0,1,0,0
+label_Food & Drink>Barbecues and Grilling,1,0,1,1,0,0,2,1,5,1,0,0,0,2,0,0,2,0,0,2,0,0,9,0,0,50,14,2,1,3,0,1,1,0,0,0,3,1,4,0,1,8,16,0,0,1,0,3,0,0
+label_Food & Drink>Desserts and Baking,4,8,1,1,2,0,1,1,8,2,2,2,1,4,3,0,1,0,0,2,6,1,7,0,2,14,131,4,6,6,0,2,3,4,1,3,4,5,4,2,6,18,25,2,7,3,0,1,0,0
+label_Food & Drink>Dining Out,1,1,1,1,0,0,6,3,15,7,0,0,1,111,2,1,0,1,1,0,2,0,2,0,2,2,4,125,9,8,1,5,1,2,0,1,6,6,12,2,1,21,9,1,2,1,1,18,0,0
+label_Food & Drink>Non-Alcoholic Beverages,0,1,0,0,4,0,2,1,4,0,0,0,0,9,0,0,0,0,0,0,1,1,1,0,2,1,6,9,65,1,0,1,0,1,0,2,12,4,3,0,0,6,12,0,0,2,0,4,0,0
+label_Food & Drink>World Cuisines,1,3,5,1,1,0,13,3,10,5,10,21,2,7,12,3,0,0,0,0,21,0,0,0,1,3,6,8,1,275,0,1,4,1,1,3,7,4,9,3,2,63,47,4,11,4,0,14,0,1
+label_Hobbies & Interests>Arts and Crafts>Photography,0,0,0,1,8,0,0,0,2,0,0,0,0,0,0,0,1,0,4,0,0,0,47,1,0,9,7,2,1,0,13,2,2,0,0,0,8,0,0,0,4,9,10,0,0,1,1,1,0,0
+label_Home & Garden,0,0,1,1,1,1,4,2,3,2,0,1,1,5,2,1,1,1,4,12,2,0,2,4,2,1,2,5,1,1,0,54,5,0,0,3,6,4,3,1,8,18,1,0,0,3,1,5,0,0
+label_Medical Health>Diseases and Conditions,3,7,0,6,0,0,1,4,7,10,18,13,0,2,1,2,0,1,1,3,3,1,2,7,1,1,3,1,0,4,0,5,295,20,19,5,11,11,5,18,1,87,32,5,2,15,1,5,1,3
+label_Medical Health>Pharmaceutical Drugs,0,0,0,5,2,0,0,0,1,4,0,4,0,1,1,0,0,1,0,5,2,0,0,5,0,0,4,2,1,1,1,0,20,121,53,5,2,4,0,3,2,36,6,5,0,5,0,1,0,1
+label_Medical Health>Vaccines,0,0,0,5,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1,0,0,19,53,97,4,1,4,0,0,0,26,21,5,0,7,0,0,0,0
+label_News and Politics,1,0,1,0,1,0,1,2,2,1,0,1,1,1,6,0,0,1,0,0,14,0,0,2,0,0,3,1,2,3,0,3,5,5,4,44,0,1,1,0,3,32,1,1,0,1,0,2,0,0
+label_News and Politics>Weather,20,9,5,18,5,15,5,8,14,7,4,17,1,4,5,7,2,6,0,7,16,1,8,27,2,3,4,6,12,7,0,6,11,2,1,0,753,32,7,0,19,176,95,7,7,7,4,18,0,2
+label_Science>Environment,0,1,1,4,19,2,1,2,13,4,0,2,1,6,8,3,0,4,3,11,5,1,0,3,0,1,5,6,4,4,3,4,11,4,4,1,32,129,10,2,8,44,7,1,0,5,2,8,0,1
+label_Shopping,5,1,0,4,11,0,7,8,165,6,2,16,1,11,6,0,0,0,0,5,7,0,0,16,6,4,4,12,3,9,1,3,5,0,0,1,7,10,205,4,6,46,25,2,5,1,0,10,1,1
+label_Sports,0,0,1,0,1,0,2,1,3,4,17,1,0,2,0,1,0,0,2,14,3,0,0,0,0,0,2,2,0,3,0,1,18,3,0,0,0,2,4,57,2,23,0,0,0,1,0,3,0,0
+label_Style & Fashion,5,0,2,3,1,1,0,1,6,4,3,2,0,0,2,2,1,2,0,6,2,1,4,6,0,1,6,1,0,2,2,8,1,2,0,3,19,8,6,2,190,37,19,2,2,1,0,0,0,0
+label_Travel,20,13,24,10,32,3,0,13,47,17,28,31,0,21,58,33,7,24,5,39,75,1,9,31,4,8,18,21,6,63,20,18,87,36,26,32,176,44,46,23,37,745,0,0,0,0,0,0,0,0
+label_Travel>Travel Locations>Asia Travel,12,3,9,21,5,4,15,13,22,5,1,20,4,10,26,8,2,5,0,5,21,0,10,14,1,16,25,9,12,47,3,1,32,6,21,1,95,7,25,0,19,0,401,16,20,9,4,27,5,28
+label_Travel>Travel Locations>Europe Travel,1,0,1,0,2,0,4,1,3,1,1,2,0,2,2,1,0,0,0,3,4,0,0,1,0,0,2,1,0,4,0,0,5,5,5,1,7,1,2,0,2,0,16,43,2,1,0,3,0,4
+label_Travel>Travel Preparation and Advice,2,9,1,0,4,0,5,9,6,4,3,10,0,4,2,0,1,0,2,3,2,0,0,1,0,0,7,2,0,11,1,0,2,0,0,0,7,0,5,0,2,0,20,2,60,0,1,12,0,2
+label_Travel>Travel Type,1,1,0,4,1,0,0,3,2,1,0,0,21,1,1,3,0,2,2,9,1,2,1,2,0,1,3,1,2,4,0,3,15,5,7,1,7,5,1,1,1,0,9,1,0,62,0,0,0,0
+label_Travel>Travel Type>Family Travel,2,0,0,4,0,0,1,2,1,2,0,2,1,1,1,3,0,1,4,8,1,0,1,2,0,0,0,1,0,0,0,1,1,0,0,0,4,2,0,0,0,0,4,0,1,0,71,6,0,0
+label_Travel>Travel Type>Hotels and Motels,8,3,1,8,0,1,123,10,12,3,1,16,1,8,9,6,1,0,1,9,7,0,1,20,1,3,1,18,4,14,0,5,5,1,0,2,18,8,10,3,0,0,27,3,12,0,6,269,0,2
+label_Travel>Travel Type>Rail Travel,2,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,14,0
+label_Travel>Travel Type>Road Trips,2,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,1,0,0,3,1,0,0,2,1,1,0,0,0,28,4,2,0,0,2,0,115
